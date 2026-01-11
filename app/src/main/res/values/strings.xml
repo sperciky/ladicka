@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audio Recorder</string>
+    <string name="record_button">Record Audio</string>
+    <string name="stop_button">Stop Recording</string>
+    <string name="frequency_label">Frequency:</string>
+    <string name="tone_label">Tone:</string>
+    <string name="no_data">No data yet</string>
+    <string name="recording">Recording...</string>
+    <string name="analyzing">Analyzing audio...</string>
+    <string name="permission_required">Microphone permission is required</string>
+</resources>
